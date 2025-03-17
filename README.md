@@ -8,7 +8,7 @@
 # Ветки с заданиями 
 | Номер недели | Ссылка на ветку |
 | :---: | --- |
-| 1 | [---](https://github.com/Ogureche/Startapik/tree/2) |
+| 1 | [Ссылка](https://github.com/Ogureche/Startapik/tree/2) |
 | 2 | --- |
 | 3 | --- |
 | 4 | --- |
