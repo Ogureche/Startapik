@@ -8,7 +8,7 @@
 # Ветки с заданиями 
 | Номер недели | Ссылка на ветку |
 | :---: | --- |
-| 1 | https://github.com/Ogureche/Startapik/blob/0e6a1f5befd41a4627463bc897984b90b414af56/README.md?plain=1#L1 |
+| 1 | --- |
 | 2 | --- |
 | 3 | --- |
 | 4 | --- |
