@@ -14,3 +14,5 @@
 | 4 | [Ссылка](https://github.com/Ogureche/Startapik/tree/4) |
 | 5 | [Ссылка](https://github.com/Ogureche/Startapik/tree/5) |
 | 6 | [Ссылка](https://github.com/Ogureche/Startapik/tree/6) |
+| 7 | [Ссылка](https://github.com/Ogureche/Startapik/tree/7) |
+
